@@ -6,7 +6,7 @@ layout: default
 # {{ site.title }}
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="wgwhittproject/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="{{ '/static/imgs/logo.png' | relative_url }}" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
 ## About This Project
 

@@ -8,6 +8,8 @@ layout: default
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 <img src="{{ '/static/imgs/selfie.png' | relative_url }}" alt="Image of Matt and Will. "  width="250"/>
 
+By: Will & Matt
+
 ## About This Project
 
 {{ site.description }}

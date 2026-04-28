@@ -8,8 +8,6 @@ layout: default
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 <img src="{{ '/static/imgs/selfie.png' | relative_url }}" alt="Image of Matt and Will. "  width="250"/>
 
-By: Will & Matt
-
 ## About This Project
 
 {{ site.description }}
@@ -51,7 +49,3 @@ The biggest tradeoff is time, since each poll can take up to 3-5 minutes which a
 ## Conclusion
 
 Overall, the data supported our idea to add polls to lecture to increase engagement because both lessons and interest levels ranked low compared to other categories, and live polls are a good way to increase class engagement, thus increasing interest levels and raising lesson ratings.
-
-## Author
-
-<img src="{{ '/static/imgs/selfie.png' | relative_url }}" alt="Author selfie" width="300"/>
